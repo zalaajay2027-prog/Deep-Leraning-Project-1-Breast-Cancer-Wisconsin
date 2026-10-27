@@ -3,8 +3,19 @@
 🤖 Neural Networks • Binary Classification • Model Optimization
 Python TensorFlow Keras Scikit-learn Status
 image
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/5b7d6868-3db2-4171-997a-d67c09f75339" />
+
 🏷️ Skills Badges
+
 Python TensorFlow Keras
+
+Machine Learning Deep Learning Neural Networks
+
+Pandas NumPy Scikit-learn
+
+Matplotlib Seaborn Jupyter Notebook
+
+Binary Classification Early Stopping Dropout L1%20%2F%20L2
 
 Machine Learning Deep Learning Neural Networks
 
@@ -227,34 +238,58 @@ project/
 
 ============================================================================================
 📊 Class_distribution
+
+<img width="690" height="490" alt="image" src="https://github.com/user-attachments/assets/e2111563-a3e3-43d1-8975-ca3a355fcc3c" />
+
 ============================================================================================ image
 
 ============================================================================================
 🔥 Correlation Heatmap
+
+<img width="1472" height="1190" alt="image" src="https://github.com/user-attachments/assets/40e88987-6b4e-4cf8-b819-9b734472cdd2" />
+
 ============================================================================================ image
 
 ============================================================================================
 📉 SLP Training Curves
+
+<img width="1489" height="495" alt="image" src="https://github.com/user-attachments/assets/a74c7cd5-68a7-4a5c-ad93-baf1354e4211" />
+
 ============================================================================================ image
 
 ============================================================================================
 📈 MLP Training Curves
+
+<img width="1790" height="495" alt="image" src="https://github.com/user-attachments/assets/bd244491-c809-465a-81c2-2c5ec2398b79" />
+
 ============================================================================================ image
 
 ============================================================================================
 ⏹️ Early Stopping
+
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/6174d590-1153-4a13-b326-9e466ba3d551" />
+
 ============================================================================================ image
 
 ============================================================================================
 💧 Dropout Comparison
+
+<img width="1790" height="495" alt="image" src="https://github.com/user-attachments/assets/49f8aaf3-a493-4237-8503-909d45c9bc71" />
+
 ============================================================================================ image
 
 ============================================================================================
 🛡️ Regularization Comparison
+
+<img width="1789" height="495" alt="image" src="https://github.com/user-attachments/assets/c96dcb27-2307-430c-ae06-5414385d78bc" />
+
 ============================================================================================ image
 
 ============================================================================================
 🏆 Model Comparison — Evaluate All Three Regularized Models
+
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/6bc8ec30-f712-4733-b29a-1d67835e40cd" />
+
 ============================================================================================ image
 
 📌 Important: Add only screenshots that you have actually generated and committed to your GitHub repository. Ensure the image filenames and folder paths match exactly.
